@@ -1,0 +1,29 @@
+apartment building
+barn
+mansion
+grocery store
+park
+mountain range
+forest path
+post office
+furniture store
+car dealership
+desert
+fancy restaurant
+pawn shop
+theater
+bar
+video rental shop
+construction site
+haberdashery
+dentist's office
+dungeon
+graveyard
+nuclear missile silo
+space station
+city
+domed city
+library
+witches hut
+catacomb
+bathroom
